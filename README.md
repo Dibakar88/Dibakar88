@@ -41,7 +41,7 @@ My research and academic work bridge the gap between traditional geography and m
 
 * 🌍 **Sarker, M. M., Chakraborty, D., et al. (2025).** *The First National-Scale High-Resolution Land Use Land Cover Map of Bangladesh Using Multi-Temporal Optical and SAR Imagery.* **Earth**, 6(4), 143. [DOI: 10.3390/earth6040143](https://doi.org/10.3390/earth6040143).
 * 🏥 **Chakraborty, D., Mondal, K. P., & Talukdar, B. (2022).** *Health Impacts of Climate Change-Related Flash Flood: A Case from Bangladesh.* **Living with Climate Change**, Elsevier. [DOI: 10.1016/B978-0-443-18515-1.00004-6](https://doi.org/10.1016/B978-0-443-18515-1.00004-6).
-* 🌊 **Chakraborty, D., Mondal, K. P., Islam, S. T., & Roy, J. (2021).** *2017 Flash Floods in Bangladesh: Lesson Learnt.* **Disaster Resilience and Sustainability**, Elsevier[cite: 1].
+* 🌊 **Chakraborty, D., Mondal, K. P., Islam, S. T., & Roy, J. (2021).** *2017 Flash Floods in Bangladesh: Lesson Learnt.* **Disaster Resilience and Sustainability**, Elsevier .
 * 🤝 **Mondal, K. P., Islam, S. T., ... Chakraborty, D., et al. (2023).** *Engaging Youth in Flood Risk Management: A Citizen Science Geospatial Initiative in Bangladesh.* **3rd International Symposium on Disaster Resilience and Sustainable Development (DRSD 2023)**, Springer Nature Singapore.
 
 ---
