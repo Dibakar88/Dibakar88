@@ -70,6 +70,16 @@ My research and academic work bridge the gap between traditional geography and m
 | **BSc (Honours) in Geography**  | Jahangirnagar University, Bangladesh | Undergraduate Studies (2006–2010) |
 
 ---
+## JDS Scholarship
+As a recipient of the JDS-2023 Scholarship from Bangladesh, I pursued and successfully completed my MSc in Environmental Science at the University of Tsukuba, Japan. I was selected for this Japanese government-funded scholarship while serving as a Lecturer in Geography under the Ministry of Education, Bangladesh. The scholarship aims to develop skilled professionals and strengthen human resource capacity in partner countries.
+
+## Conference Presentation
+
+🏅 **Outstanding Poster Presentation Recognition — ECRS 2026**
+
+Recognized for an outstanding poster presentation at the **6th International Electronic Conference on Remote Sensing (ECRS 2026)**, held online on 19–21 October 2026 (MDPI).
+
+<img width="542" height="350" alt="Dibakar Chakraborty_Poster Presentation_ECRS2026" src="https://github.com/user-attachments/assets/5407f6e6-5e2c-485e-9456-506e72439b81" />
 
 
 ## 💼 Professional Experience
