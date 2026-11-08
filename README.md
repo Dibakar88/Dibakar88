@@ -51,13 +51,13 @@ My research and academic work bridge the gap between traditional geography and m
 >
 > During my Master’s research at Tsukuba University, I gained vast knowledge in satellite data analysis and interpretation. Google Earth Engine (GEE) and various Python libraries were used to analyze and interpret multi-temporal optical and SAR data. Since the Convolutional Neural Network (CNN) deep learning model demanded a large volume of reference data—approximately **67,000 points across various spectral indices**—we accounted for **six seasonal variations** across the national landscape.
 > 
-><img width="844" height="580" alt="Earth_Mdpi Image 8" src="https://github.com/user-attachments/assets/ad3e68e3-ade6-4e18-9ddb-bd44c8a7a233" />
+><img width="422" height="290" alt="Earth_Mdpi Image 8" src="https://github.com/user-attachments/assets/ad3e68e3-ade6-4e18-9ddb-bd44c8a7a233" />
 
 > Following this research, I explored cutting-edge Earth observation foundation models, specifically **'Prithvi-EO 2.0'**. While deploying such advanced models demands high-resolution imagery along with substantial research funding and hardware infrastructure, I benchmarked the pipeline on **Google Colab using an A100 GPU**. Although the architecture necessitated higher specification hardware configurations, this initiative significantly strengthened my expertise in deploying complex GeoAI models on cloud computing infrastructure. 
 > 
 > My extensive hands-on experience in satellite data processing, deep learning, and spatial analysis makes me highly confident in contributing effectively to advanced **climate disaster and Earth observation projects**.
 
-<img width="851" height="510" alt="Earth_Mdpi Image 14" src="https://github.com/user-attachments/assets/1f74d176-332f-48b3-8283-03e042b85ec2" />
+<img width="425" height="255" alt="Earth_Mdpi Image 14" src="https://github.com/user-attachments/assets/1f74d176-332f-48b3-8283-03e042b85ec2" />
 ---
 
 ## 🎓 Academic Background & Fellowships
